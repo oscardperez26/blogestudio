@@ -1,7 +1,9 @@
+
 body {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(255, 16, 16);
+    background-color: bisque;
 }
 
 #id {
