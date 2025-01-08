@@ -4,9 +4,13 @@ body {
     color: rgb(255, 16, 16);
 }
 
-#id {
+#boton {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(255, 16, 16);
     background-color: none;
+}
+
+#parrafo {
+    background-color: blue;
 }
