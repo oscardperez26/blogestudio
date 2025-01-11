@@ -12,3 +12,7 @@ Algoritmos y estructuras de datos: Pilas, colas, listas, árboles, etc.
 Lenguajes base recomendados:
 JavaScript (indispensable para frontend y backend)
 Python o Java (opcional para backend adicional).
+
+
+************ nuevo ****************
++++++++++++++++++++++++++++++++++++
